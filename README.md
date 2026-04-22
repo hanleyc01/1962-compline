@@ -14,3 +14,8 @@ The other major source for the text is from [Prayer Book Society of Canada](http
 and their PDF handout for [Compline](https://prayerbook.ca/wp-content/uploads/2021/05/bcp-1962-compline-booklet.pdf).
 
 ![](./screen-shot.png)
+
+# TODO:
+
+- [ ] make all music of regular size, currently just `\includegraphics[width=\textwidth]` shenanigans
+- [ ] include music for marian antiphons
